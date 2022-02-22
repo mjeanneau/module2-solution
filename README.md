@@ -1,2 +1,2 @@
 # module2-solution
-Coursera-HTML CSS &amp; JAVASCRIPT - homwork for module 2
+Coursera-HTML CSS and JAVASCRIPT - homework for module 2
